@@ -1,0 +1,901 @@
+[
+
+    {
+        "name": "Bootstrap: Container",
+        "trigger": "ct",
+        "usage": "ct",
+        "description": "container <div>",
+        "template": "bootstrap/container/container.snippet"
+    },
+    {
+        "name": "Bootstrap: Container Fluid ",
+        "trigger": "ct-fluid",
+        "usage": "ct-fluid",
+        "description": "container <div> with a full width",
+        "template": "bootstrap/container/container-fluid.snippet"
+    },
+    
+    
+    
+    
+    
+    {
+        "name": "Bootstrap: Row",
+        "trigger": "row",
+        "usage": "row",
+        "description": "A row",
+        "template": "bootstrap/row/row.snippet"
+    },
+    {
+        "name": "Boostrap: Row with id",
+        "trigger": "row-id",
+        "usage": "row-id",
+        "description": "A row with id param selected",
+        "template": "bootstrap/row/rowid.snippet"
+    },
+    
+    
+	
+    
+    
+    {
+        "name": "Boostrap: Lead Copy",
+        "trigger": "lead",
+        "usage": "lead",
+        "description": "Paragraph designated as Lead Copy",
+        "template": "bootstrap/components/misc/lead.snippet"
+    },
+    {
+        "name": "Boostrap: Help Block",
+        "trigger": "help",
+        "usage": "help",
+        "description": "Add some helping info to go with an input",
+        "template": "bootstrap/components/misc/help.snippet"
+    },
+	{
+        "name": "Boostrap: Clearfix",
+        "trigger": "clearfix",
+        "usage": "clearfix",
+        "description": "Spring cleaning",
+        "template": "bootstrap/components/misc/clearfix.snippet"
+    },
+	{
+        "name": "Boostrap: Divider",
+        "trigger": "divider",
+        "usage": "divider",
+        "description": "Divider <div>",
+        "template": "bootstrap/components/misc/divider.snippet"
+    },
+	{
+        "name": "Boostrap: Caret",
+        "trigger": "caret",
+        "usage": "caret",
+        "description": "A downward facing carat in a <span>",
+        "template": "bootstrap/components/misc/caret.snippet"
+    },
+	{
+        "name": "Boostrap: Pull - Right",
+        "trigger": "pull-right",
+        "usage": "pull-right",
+        "description": "A <div> floated to the right",
+        "template": "bootstrap/components/misc/pull-right.snippet"
+    },
+	{
+        "name": "Boostrap: Pull - Left",
+        "trigger": "pull-left",
+        "usage": "pull-left",
+        "description": "A <div> floated to the left",
+        "template": "bootstrap/components/misc/pull-left.snippet"
+    },
+	
+
+	
+	
+	
+	{
+        "name": "Boostrap: Button - Default",
+        "trigger": "btn",
+        "usage": "btn",
+        "description": "Default Button",
+        "template": "bootstrap/components/button/button-default.snippet"
+    },
+	{
+        "name": "Boostrap: Button - Primary",
+        "trigger": "btn-primary",
+        "usage": "btn-primary",
+        "description": "Primary Button",
+        "template": "bootstrap/components/button/button-primary.snippet"
+    },
+	{
+        "name": "Boostrap: Button - Info",
+        "trigger": "btn-info",
+        "usage": "btn-info",
+        "description": "Info Button",
+        "template": "bootstrap/components/button/button-info.snippet"
+    },
+	{
+        "name": "Boostrap: Button - Success",
+        "trigger": "btn-success",
+        "usage": "btn-success",
+        "description": "Success Button",
+        "template": "bootstrap/components/button/button-success.snippet"
+    },
+	{
+        "name": "Boostrap: Button - Warning",
+        "trigger": "btn-warning",
+        "usage": "btn-warning",
+        "description": "Warning Button",
+        "template": "bootstrap/components/button/button-warning.snippet"
+    },
+	{
+        "name": "Boostrap: Button - Danger",
+        "trigger": "btn-danger",
+        "usage": "btn-danger",
+        "description": "Danger Button",
+        "template": "bootstrap/components/button/button-danger.snippet"
+    },
+	{
+        "name": "Boostrap: Button - Link",
+        "trigger": "btn-link",
+        "usage": "btn-link",
+        "description": "Default Button",
+        "template": "bootstrap/components/button/button-link.snippet"
+    },
+	
+	
+	
+	
+	
+	{
+        "name": "Boostrap: Text - Left-aligned text",
+        "trigger": "text-left",
+        "usage": "text-left",
+        "description": "Paragraph with left-aligned text",
+        "template": "bootstrap/components/text/text-align-left.snippet"
+    },
+	{
+        "name": "Boostrap: Text - Right-aligned text",
+        "trigger": "text-right",
+        "usage": "text-right",
+        "description": "Paragraph with right-aligned text",
+        "template": "bootstrap/components/text/text-align-right.snippet"
+    },
+	{
+        "name": "Boostrap: Text - Centered text",
+        "trigger": "text-center",
+        "usage": "text-center",
+        "description": "Paragraph with centered text",
+        "template": "bootstrap/components/text/text-align-center.snippet"
+    },
+	{
+        "name": "Boostrap: Text - Justified text",
+        "trigger": "text-justify",
+        "usage": "text-justify",
+        "description": "Paragraph with justified text",
+        "template": "bootstrap/components/text/text-justify.snippet"
+    },
+	{
+        "name": "Boostrap: Text - Abbreviation",
+        "trigger": "abbr",
+        "usage": "abbr title text",
+        "description": "An <abbr> with title and text",
+        "template": "bootstrap/components/abbreviations/abbr.snippet"
+    },
+	{
+        "name": "Boostrap: Text - Abbreviated Initialism",
+        "trigger": "initialism",
+        "usage": "initialism title text",
+        "description": "An <abbr> with title and text",
+        "template": "bootstrap/components/abbreviations/abbr.snippet"
+    },
+	
+	
+	
+	
+	
+	{
+        "name": "Boostrap: Address",
+        "trigger": "address",
+        "usage": "address title street state phone-title area-code number",
+        "description": "A full address with phone number",
+        "template": "bootstrap/components/address/address-full.snippet"
+    },
+
+	
+	
+	
+	
+	{
+        "name": "Boostrap: Blockquote",
+        "trigger": "bq",
+        "usage": "bq text",
+        "description": "A blockquote with a paragraph",
+        "template": "bootstrap/components/blockquote/blockquote.snippet"
+    },
+	{
+        "name": "Boostrap: Blockquote with Source footer",
+        "trigger": "bq-footer",
+        "usage": "bq-footer text source",
+        "description": "A blockquote with a paragraph and a <footer> denoting the source",
+        "template": "bootstrap/components/blockquote/blockquote-footer.snippet"
+    },
+	{
+        "name": "Boostrap: Blockquote reverse",
+        "trigger": "bqr",
+        "usage": "bqr text",
+        "description": "A blockquote with a reverse (right justified) layout",
+        "template": "bootstrap/components/blockquote/blockquote-reverse.snippet"
+    },
+	{
+        "name": "Boostrap: Blockquote reverse with Source footer",
+        "trigger": "bqr-footer",
+        "usage": "bqr-footer text source",
+        "description": "A blockquote with a paragraph and a <footer> denoting the source in a reverse (right justified) layout",
+        "template": "bootstrap/components/blockquote/blockquote-reverse-footer.snippet"
+    },
+	
+	
+	
+	
+	
+	{
+        "name": "Boostrap: List - Unstyled",
+        "trigger": "list-unstyled",
+        "usage": "list-unstyled",
+        "description": "An unstyled list",
+        "template": "bootstrap/components/lists/unstyled.snippet"
+    },
+	{
+        "name": "Boostrap: List - Inline",
+        "trigger": "list-inilne",
+        "usage": "list-inilne",
+        "description": "An inilne list",
+        "template": "bootstrap/components/lists/inilne.snippet"
+    },
+	{
+        "name": "Boostrap: List - Description",
+        "trigger": "dl",
+        "usage": "dl title desctiption",
+        "description": "A description list ",
+        "template": "bootstrap/components/description/normal.snippet"
+    },
+	{
+        "name": "Boostrap: List - Description (horizontal layout)",
+        "trigger": "dl-horizontal",
+        "usage": "dl-horizontal title desctiption",
+        "description": "A description list with horizontal formatting",
+        "template": "bootstrap/components/description/horizontal.snippet"
+    },
+	
+	
+	
+	
+	
+	{
+        "name": "Boostrap: Input",
+        "trigger": "input",
+        "usage": "input",
+        "description": "An <input> element",
+        "template": "bootstrap/components/input/input.snippet"
+    },
+	{
+        "name": "Boostrap: Input - Textarea",
+        "trigger": "textarea",
+        "usage": "textarea",
+        "description": "A <textarea> element",
+        "template": "bootstrap/components/input/textarea.snippet"
+    },
+	{
+        "name": "Boostrap: Input - Checkbox",
+        "trigger": "checkbox",
+        "usage": "checkbox",
+        "description": "A checkbox",
+        "template": "bootstrap/components/input/checkbox.snippet"
+    },
+	{
+        "name": "Boostrap: Input - Radio",
+        "trigger": "radio",
+        "usage": "radio radio-group id value label",
+        "description": "A selected radio",
+        "template": "bootstrap/components/input/radio.snippet"
+    },
+	{
+        "name": "Boostrap: Input - Select",
+        "trigger": "select",
+        "usage": "select",
+        "description": "A <select>",
+        "template": "bootstrap/components/input/select.snippet"
+    },
+	{
+        "name": "Boostrap: Input - Select (multiple)",
+        "trigger": "select-multi",
+        "usage": "select-multi",
+        "description": "A multi-selectabele <select> element",
+        "template": "bootstrap/components/input/select-multiple.snippet"
+    },
+	
+	
+	
+	
+	
+	{
+        "name": "Boostrap: Image - Rounded corners",
+        "trigger": "img-rounded",
+        "usage": "img-rounded",
+        "description": "An image with roudned corners",
+        "template": "bootstrap/components/image/img-rounded.snippet"
+    },
+	{
+        "name": "Boostrap: Image - Circle",
+        "trigger": "img-circle",
+        "usage": "img-circle",
+        "description": "An circular image",
+        "template": "bootstrap/components/image/img-circle.snippet"
+    },
+	{
+        "name": "Boostrap: Image - Thumbnail",
+        "trigger": "img-thumbnail",
+        "usage": "img-thumbnail",
+        "description": "An thumbnail image",
+        "template": "bootstrap/components/image/img-thumbnail.snippet"
+    },
+	
+	
+	
+	
+	
+    {
+        "name": "Boostrap: Verbose 12 Columns",
+        "trigger": "12",
+        "usage": "12",
+        "description": "12 Columns [xs, sm, md, lg]",
+        "template": "bootstrap/col/verbose/12-columns-verbose.snippet"
+    },
+    {
+        "name": "Boostrap: Verbose 11 Columns",
+        "trigger": "11",
+        "usage": "11",
+        "description": "11 Columns [xs, sm, md, lg]",
+        "template": "bootstrap/col/verbose/11-columns-verbose.snippet"
+    },
+    {
+        "name": "Boostrap: Verbose 10 Columns",
+        "trigger": "10",
+        "usage": "10",
+        "description": "10 Columns [xs, sm, md, lg]",
+        "template": "bootstrap/col/verbose/10-columns-verbose.snippet"
+    },
+    {
+        "name": "Boostrap: Verbose 9 Columns",
+        "trigger": "9",
+        "usage": "9",
+        "description": "9 Columns [xs, sm, md, lg]",
+        "template": "bootstrap/col/verbose/9-columns-verbose.snippet"
+    },
+    {
+        "name": "Boostrap: Verbose 8 Columns",
+        "trigger": "8",
+        "usage": "8",
+        "description": "8 Columns [xs, sm, md, lg]",
+        "template": "bootstrap/col/verbose/8-columns-verbose.snippet"
+    },
+    {
+        "name": "Boostrap: Verbose 7 Columns",
+        "trigger": "7",
+        "usage": "7",
+        "description": "7 Columns [xs, sm, md, lg]",
+        "template": "bootstrap/col/verbose/7-columns-verbose.snippet"
+    },
+    {
+        "name": "Boostrap: Verbose 6 Columns",
+        "trigger": "6",
+        "usage": "6",
+        "description": "6 Columns [xs, sm, md, lg]",
+        "template": "bootstrap/col/verbose/6-columns-verbose.snippet"
+    },
+    {
+        "name": "Boostrap: Verbose 5 Columns",
+        "trigger": "5",
+        "usage": "5",
+        "description": "5 Columns [xs, sm, md, lg]",
+        "template": "bootstrap/col/verbose/5-columns-verbose.snippet"
+    },
+    {
+        "name": "Boostrap: Verbose 4 Columns",
+        "trigger": "4",
+        "usage": "4",
+        "description": "4 Columns [xs, sm, md, lg]",
+        "template": "bootstrap/col/verbose/4-columns-verbose.snippet"
+    },
+    {
+        "name": "Boostrap: Verbose 3 Columns",
+        "trigger": "3",
+        "usage": "3",
+        "description": "3 Columns [xs, sm, md, lg]",
+        "template": "bootstrap/col/verbose/3-columns-verbose.snippet"
+    },
+    {
+        "name": "Boostrap: Verbose 2 Columns",
+        "trigger": "2",
+        "usage": "2",
+        "description": "2 Columns [xs, sm, md, lg]",
+        "template": "bootstrap/col/verbose/2-columns-verbose.snippet"
+    },
+    {
+        "name": "Boostrap: Verbose 1 Column",
+        "trigger": "1",
+        "usage": "1",
+        "description": "1 Column [xs, sm, md, lg]",
+        "template": "bootstrap/col/verbose/1-column-verbose.snippet"
+    },
+    
+    
+	
+    
+    
+    {
+        "name": "Boostrap: Large 12 Columns",
+        "trigger": "12lg",
+        "usage": "12lg",
+        "description": "12 Columns [lg]",
+        "template": "bootstrap/col/lg/12-column-lg.snippet"
+    },
+    {
+        "name": "Boostrap: Large 11 Columns",
+        "trigger": "11lg",
+        "usage": "11lg",
+        "description": "11 Columns [lg]",
+        "template": "bootstrap/col/lg/11-columns-lg.snippet"
+    },
+    {
+        "name": "Boostrap: Large 10 Columns",
+        "trigger": "10lg",
+        "usage": "10lg",
+        "description": "10 Columns [lg]",
+        "template": "bootstrap/col/lg/10-columns-lg.snippet"
+    },
+    {
+        "name": "Boostrap: Large 9 Columns",
+        "trigger": "9lg",
+        "usage": "9lg",
+        "description": "9 Columns [lg]",
+        "template": "bootstrap/col/lg/9-columns-lg.snippet"
+    },
+    {
+        "name": "Boostrap: Large 8 Columns",
+        "trigger": "8lg",
+        "usage": "8lg",
+        "description": "8 Columns [lg]",
+        "template": "bootstrap/col/lg/8-columns-lg.snippet"
+    },
+    {
+        "name": "Boostrap: Large 7 Columns",
+        "trigger": "7lg",
+        "usage": "7lg",
+        "description": "7 Columns [lg]",
+        "template": "bootstrap/col/lg/7-columns-lg.snippet"
+    },
+    {
+        "name": "Boostrap: Large 6 Columns",
+        "trigger": "6lg",
+        "usage": "6lg",
+        "description": "6 Columns [lg]",
+        "template": "bootstrap/col/lg/6-columns-lg.snippet"
+    },
+    {
+        "name": "Boostrap: Large 5 Columns",
+        "trigger": "5lg",
+        "usage": "5lg",
+        "description": "5 Columns [lg]",
+        "template": "bootstrap/col/lg/5-columns-lg.snippet"
+    },
+    {
+        "name": "Boostrap: Large 4 Columns",
+        "trigger": "4lg",
+        "usage": "4lg",
+        "description": "4 Columns [lg]",
+        "template": "bootstrap/col/lg/4-columns-lg.snippet"
+    },
+    {
+        "name": "Boostrap: Large 3 Columns",
+        "trigger": "3lg",
+        "usage": "3lg",
+        "description": "3 Columns [lg]",
+        "template": "bootstrap/col/lg/3-columns-lg.snippet"
+    },
+    {
+        "name": "Boostrap: Large 2 Columns",
+        "trigger": "2lg",
+        "usage": "2lg",
+        "description": "2 Columns [lg]",
+        "template": "bootstrap/col/lg/2-columns-lg.snippet"
+    },
+    {
+        "name": "Boostrap: Large 1 Column",
+        "trigger": "1lg",
+        "usage": "1lg",
+        "description": "1 Column [lg]",
+        "template": "bootstrap/col/lg/1-column-lg.snippet"
+    },
+    
+    
+    
+    
+    
+    {
+        "name": "Boostrap: Medium 12 Columns",
+        "trigger": "12md",
+        "usage": "12md",
+        "description": "12 Columns [md]",
+        "template": "bootstrap/col/md/12-columns-md.snippet"
+    },
+    {
+        "name": "Boostrap: Medium 11 Columns",
+        "trigger": "11md",
+        "usage": "11md",
+        "description": "11 Columns [md]",
+        "template": "bootstrap/col/md/11-columns-md.snippet"
+    },
+    {
+        "name": "Boostrap: Medium 10 Columns",
+        "trigger": "10md",
+        "usage": "10md",
+        "description": "10 Columns [md]",
+        "template": "bootstrap/col/md/10-columns-md.snippet"
+    },
+    {
+        "name": "Boostrap: Medium 9 Columns",
+        "trigger": "9md",
+        "usage": "9md",
+        "description": "9 Columns [md]",
+        "template": "bootstrap/col/md/9-columns-md.snippet"
+    },
+    {
+        "name": "Boostrap: Medium 8 Columns",
+        "trigger": "8md",
+        "usage": "8md",
+        "description": "8 Columns [md]",
+        "template": "bootstrap/col/md/8-columns-md.snippet"
+    },
+    {
+        "name": "Boostrap: Medium 7 Columns",
+        "trigger": "7md",
+        "usage": "7md",
+        "description": "7 Columns [md]",
+        "template": "bootstrap/col/md/7-columns-md.snippet"
+    },
+    {
+        "name": "Boostrap: Medium 6 Columns",
+        "trigger": "6md",
+        "usage": "6md",
+        "description": "6 Columns [md]",
+        "template": "bootstrap/col/md/6-columns-md.snippet"
+    },
+    {
+        "name": "Boostrap: Medium 5 Columns",
+        "trigger": "5md",
+        "usage": "5md",
+        "description": "5 Columns [md]",
+        "template": "bootstrap/col/md/5-columns-md.snippet"
+    },
+    {
+        "name": "Boostrap: Medium 4 Columns",
+        "trigger": "4md",
+        "usage": "4md",
+        "description": "4 Columns [md]",
+        "template": "bootstrap/col/md/4-columns-md.snippet"
+    },
+    {
+        "name": "Boostrap: Medium 3 Columns",
+        "trigger": "3md",
+        "usage": "3md",
+        "description": "3 Columns [md]",
+        "template": "bootstrap/col/md/3-columns-md.snippet"
+    },
+    {
+        "name": "Boostrap: Medium 2 Columns",
+        "trigger": "2md",
+        "usage": "2md",
+        "description": "2 Columns [md]",
+        "template": "bootstrap/col/md/2-columns-md.snippet"
+    },
+    {
+        "name": "Boostrap: Medium 1 Column",
+        "trigger": "1md",
+        "usage": "1md",
+        "description": "1 Column [md]",
+        "template": "bootstrap/col/md/1-column-md.snippet"
+    },
+    
+    
+    
+    
+    
+    {
+        "name": "Boostrap: Small 12 Columns",
+        "trigger": "12sm",
+        "usage": "12sm",
+        "description": "12 Columns [sm]",
+        "template": "bootstrap/cols/sm/12-columns-sm.snippet"
+    },
+    {
+        "name": "Boostrap: Small 11 Columns",
+        "trigger": "11sm",
+        "usage": "11sm",
+        "description": "11 Columns [sm]",
+        "template": "bootstrap/cols/sm/11-columns-sm.snippet"
+    },
+    {
+        "name": "Boostrap: Small 10 Columns",
+        "trigger": "10sm",
+        "usage": "10sm",
+        "description": "10 Columns [sm]",
+        "template": "bootstrap/cols/sm/10-columns-sm.snippet"
+    },
+    {
+        "name": "Boostrap: Small 9 Columns",
+        "trigger": "9sm",
+        "usage": "9sm",
+        "description": "9 Columns [sm]",
+        "template": "bootstrap/cols/sm/9-columns-sm.snippet"
+    },
+    {
+        "name": "Boostrap: Small 8 Columns",
+        "trigger": "8sm",
+        "usage": "8sm",
+        "description": "8 Columns [sm]",
+        "template": "bootstrap/cols/sm/8-columns-sm.snippet"
+    },
+    {
+        "name": "Boostrap: Small 7 Columns",
+        "trigger": "7sm",
+        "usage": "7sm",
+        "description": "7 Columns [sm]",
+        "template": "bootstrap/cols/sm/7-columns-sm.snippet"
+    },
+    {
+        "name": "Boostrap: Small 6 Columns",
+        "trigger": "6sm",
+        "usage": "6sm",
+        "description": "6 Columns [sm]",
+        "template": "bootstrap/cols/sm/6-columns-sm.snippet"
+    },
+    {
+        "name": "Boostrap: Small 5 Columns",
+        "trigger": "5sm",
+        "usage": "5sm",
+        "description": "5 Columns [sm]",
+        "template": "bootstrap/cols/sm/5-columns-sm.snippet"
+    },
+    {
+        "name": "Boostrap: Small 4 Columns",
+        "trigger": "4sm",
+        "usage": "4sm",
+        "description": "4 Columns [sm]",
+        "template": "bootstrap/cols/sm/4-columns-sm.snippet"
+    },
+    {
+        "name": "Boostrap: Small 3 Columns",
+        "trigger": "3sm",
+        "usage": "3sm",
+        "description": "3 Columns [sm]",
+        "template": "bootstrap/cols/sm/3-columns-sm.snippet"
+    },
+    {
+        "name": "Boostrap: Small 2 Columns",
+        "trigger": "2sm",
+        "usage": "2sm",
+        "description": "2 Columns [sm]",
+        "template": "bootstrap/cols/sm/2-columns-sm.snippet"
+    },
+    {
+        "name": "Boostrap: Small 1 Column",
+        "trigger": "1sm",
+        "usage": "1sm",
+        "description": "1 Column [sm]",
+        "template": "bootstrap/cols/sm/1-column-sm.snippet"
+    },
+
+    
+    
+    
+    
+    {
+        "name": "Boostrap: Extra small 12 Columns",
+        "trigger": "12xs",
+        "usage": "12xs",
+        "description": "12 Columns [xs]",
+        "template": "bootstrap/cols/xs/12-columns-xs.snippet"
+    },
+    {
+        "name": "Boostrap: Extra small 11 Columns",
+        "trigger": "11xs",
+        "usage": "11xs",
+        "description": "11 Columns [xs]",
+        "template": "bootstrap/cols/xs/11-columns-xs.snippet"
+    },
+    {
+        "name": "Boostrap: Extra small 10 Columns",
+        "trigger": "10xs",
+        "usage": "10xs",
+        "description": "10 Columns [xs]",
+        "template": "bootstrap/cols/xs/10-columns-xs.snippet"
+    },
+    {
+        "name": "Boostrap: Extra small 9 Columns",
+        "trigger": "9xs",
+        "usage": "9xs",
+        "description": "9 Columns [xs]",
+        "template": "bootstrap/cols/xs/9-columns-xs.snippet"
+    },
+    {
+        "name": "Boostrap: Extra small 8 Columns",
+        "trigger": "8xs",
+        "usage": "8xs",
+        "description": "8 Columns [xs]",
+        "template": "bootstrap/cols/xs/8-columns-xs.snippet"
+    },
+    {
+        "name": "Boostrap: Extra small 7 Columns",
+        "trigger": "7xs",
+        "usage": "7xs",
+        "description": "7 Columns [xs]",
+        "template": "bootstrap/cols/xs/7-columns-xs.snippet"
+    },
+    {
+        "name": "Boostrap: Extra small 6 Columns",
+        "trigger": "6xs",
+        "usage": "6xs",
+        "description": "6 Columns [xs]",
+        "template": "bootstrap/cols/xs/6-columns-xs.snippet"
+    },
+    {
+        "name": "Boostrap: Extra small 5 Columns",
+        "trigger": "5xs",
+        "usage": "5xs",
+        "description": "5 Columns [xs]",
+        "template": "bootstrap/cols/xs/5-columns-xs.snippet"
+    },
+    {
+        "name": "Boostrap: Extra small 4 Columns",
+        "trigger": "4xs",
+        "usage": "4xs",
+        "description": "4 Columns [xs]",
+        "template": "bootstrap/cols/xs/4-columns-xs.snippet"
+    },
+    {
+        "name": "Boostrap: Extra small 3 Columns",
+        "trigger": "3xs",
+        "usage": "3xs",
+        "description": "3 Columns [xs]",
+        "template": "bootstrap/cols/xs/3-columns-xs.snippet"
+    },
+    {
+        "name": "Boostrap: Extra small 2 Columns",
+        "trigger": "2xs",
+        "usage": "2xs",
+        "description": "2 Columns [xs]",
+        "template": "bootstrap/cols/xs/2-columns-xs.snippet"
+    },
+    {
+        "name": "Boostrap: Extra small 1 Column",
+        "trigger": "1xs",
+        "usage": "1xs",
+        "description": "1 Column [xs]",
+        "template": "bootstrap/cols/xs/1-column-xs.snippet"
+    },
+	
+	
+	
+	
+
+	{
+        "name": "Boostrap: Modal",
+        "trigger": "modal",
+        "usage": "modal",
+        "description": "Modal snippet",
+        "template": "bootstrap/js/modal/modal.snippet"
+    },
+    
+    
+    
+    
+    
+    {
+        "name": "Boostrap: Dropdown",
+        "trigger": "dropdown",
+        "usage": "dropdown",
+        "description": "Dropdown snippet",
+        "template": "bootstrap/js/modal/dropdown.snippet"
+    },
+    
+    
+    
+    
+    
+    {
+        "name": "Boostrap: Accordion",
+        "trigger": "accordion",
+        "usage": "accordion",
+        "description": "Accordion snippet",
+        "template": "bootstrap/js/collapse/accordion.snippet"
+    },
+    
+    
+    
+    
+    
+    {
+        "name": "Boostrap: Carousel",
+        "trigger": "carousel",
+        "usage": "carousel",
+        "description": "Carousel snippet",
+        "template": "bootstrap/js/carousel/carousel.snippet"
+    },
+    
+    
+    
+    
+        
+    {
+        "name": "Boostrap: Tooltip - Left",
+        "trigger": "tooltip-left",
+        "usage": "tooltip-left",
+        "description": "Tooltip on the left of a button",
+        "template": "bootstrap/js/tooltip/tip-left.snippet"
+    },
+    {
+        "name": "Boostrap: Tooltip - Right",
+        "trigger": "tooltip-right",
+        "usage": "tooltip-right",
+        "description": "Tooltip on the right of a button",
+        "template": "bootstrap/js/tooltip/tip-right.snippet"
+    },
+    {
+        "name": "Boostrap: Tooltip - Top",
+        "trigger": "tooltip-top",
+        "usage": "tooltip-top",
+        "description": "Tooltip on the top of a button",
+        "template": "bootstrap/js/tooltip/tip-top.snippet"
+    },
+    {
+        "name": "Boostrap: Tooltip - Bottom",
+        "trigger": "tooltip-bottom",
+        "usage": "tooltip-bottom",
+        "description": "Tooltip on the bottom of a button",
+        "template": "bootstrap/js/tooltip/tip-bottom.snippet"
+    },
+    
+
+    
+    
+        
+    {
+        "name": "Boostrap: Popover - Left",
+        "trigger": "popover-left",
+        "usage": "popover-left",
+        "description": "Popover on the left of a button",
+        "template": "bootstrap/js/popover/pop-left.snippet"
+    },
+    {
+        "name": "Boostrap: Popover - Right",
+        "trigger": "popover-right",
+        "usage": "popover-right",
+        "description": "Popover on the right of a button",
+        "template": "bootstrap/js/popover/pop-right.snippet"
+    },
+    {
+        "name": "Boostrap: Popover - Top",
+        "trigger": "popover-top",
+        "usage": "popover-top",
+        "description": "Popover on the top of a button",
+        "template": "bootstrap/js/popover/pop-top.snippet"
+    },
+    {
+        "name": "Boostrap: Popover - Bottom",
+        "trigger": "popover-bottom",
+        "usage": "popover-bottom",
+        "description": "Popover on the bottom of a button",
+        "template": "bootstrap/js/popover/pop-bottom.snippet"
+    }
+]
