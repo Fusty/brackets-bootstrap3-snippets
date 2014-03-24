@@ -7,6 +7,8 @@ Bootstrap 3 snippets for the Snippet extension for Brackets
 
 ## Install
 
+Install [Brackets](http://brackets.io/)
+
 Install [Brackets Snippets](https://github.com/jrowny/brackets-snippets) *( 'File > Extension Manager' )*
 
 Navigate to `~/Library/Application Support/Brackets/extensions/user/jrowny.brackets.snippets/`
