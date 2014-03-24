@@ -87,18 +87,21 @@ Navigate to `~/Library/Application Support/Brackets/extensions/user/jrowny.brack
 
 ## TODO
 
-###Components
+###Misc.
 
 * Tabs to spaces?
-* Offsets
 * Test each snippet (much of it was automated)
+* Remove pertinent $${}. Just adjust the cursor to the first param/text because the input walkthrough is a jerk.
+
+###CSS
+
+* Offsets
 * Extra nutty col syntax (`1-3-4-12` -> `<div class="col-xs-1 col-sm-3 col-md-4 col-lg-12"></div>`). 256 posibilities.
 * Media Queries (CSS and LESS)
 * LESS Variables
 * Tables
-* Input with prefixed/affixed buttons and labels
+* Input with prefixed/affixed buttons and labels* 
 * Form groups
-* Remove pertinent $${}. Just adjust the cursor to the first param/text because the input walkthrough is a jerk.
 * Button Sizes, button blocks, button states
 	* `<input>` as button
 	* `<a>` as 
@@ -124,3 +127,6 @@ Navigate to `~/Library/Application Support/Brackets/extensions/user/jrowny.brack
 	* Methods
 	* Events
 	* Individual elements
+	
+###Components
+* All
