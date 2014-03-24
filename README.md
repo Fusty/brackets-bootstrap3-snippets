@@ -11,7 +11,7 @@ Install [Brackets Snippets](https://github.com/jrowny/brackets-snippets) *( 'Fil
 
 Navigate to `~/Library/Application Support/Brackets/extensions/user/jrowny.brackets.snippets/`
 
-1. Add `bootstrap.json` to `data/`
+1. Add `bootstrap.json` and `bootstrap.glyphicons.json` to `data/`
 2. Add the `boostrap/` dir to `data/snippets/`
 3. Reload Brackets with extensions ( ⌘ + R )
 
@@ -79,7 +79,7 @@ Navigate to `~/Library/Application Support/Brackets/extensions/user/jrowny.brack
 
 	gl-name
 
-**Note**, if you dilike the glyphicon naming schema (or would prefer the `<i>` element), there's a shell script in `/snippets/bootstrap/components/glyphicons/scripts/` to automate all changes to the files.
+**Note**, if you dislike the glyphicon naming schema (or would prefer the `<i>` element), there's a shell script in `bootstrap/components/glyphicons/scripts/` to automate all changes to the files.
 
 ---
 
