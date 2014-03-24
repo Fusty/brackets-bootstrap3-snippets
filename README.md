@@ -74,6 +74,12 @@ Navigate to `~/Library/Application Support/Brackets/extensions/user/jrowny.brack
 	tooltip-left, tooltip-right, tooltip-top, tooltip-bottom
 	
 	popover-left, popover-right, popover-top, popover-bottom
+	
+###Glyphicons
+
+	gl-name
+
+**Note**, if you dilike the glyphicon naming schema (or would prefer the `<i>` element), there's a shell script in `/snippets/bootstrap/components/glyphicons/scripts/` to automate all changes to the files.
 
 ---
 

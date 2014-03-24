@@ -1,0 +1,1403 @@
+[
+    
+    {
+        "name": "Bootstrap: Glyphicon - asterisk",
+        "trigger": "gl-asterisk",
+        "usage": "gl-asterisk",
+        "description": "asterisk glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-asterisk.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - plus",
+        "trigger": "gl-plus",
+        "usage": "gl-plus",
+        "description": "plus glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-plus.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - euro",
+        "trigger": "gl-euro",
+        "usage": "gl-euro",
+        "description": "euro glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-euro.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - minus",
+        "trigger": "gl-minus",
+        "usage": "gl-minus",
+        "description": "minus glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-minus.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - cloud",
+        "trigger": "gl-cloud",
+        "usage": "gl-cloud",
+        "description": "cloud glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-cloud.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - envelope",
+        "trigger": "gl-envelope",
+        "usage": "gl-envelope",
+        "description": "envelope glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-envelope.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - pencil",
+        "trigger": "gl-pencil",
+        "usage": "gl-pencil",
+        "description": "pencil glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-pencil.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - glass",
+        "trigger": "gl-glass",
+        "usage": "gl-glass",
+        "description": "glass glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-glass.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - music",
+        "trigger": "gl-music",
+        "usage": "gl-music",
+        "description": "music glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-music.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - search",
+        "trigger": "gl-search",
+        "usage": "gl-search",
+        "description": "search glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-search.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - heart",
+        "trigger": "gl-heart",
+        "usage": "gl-heart",
+        "description": "heart glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-heart.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - star",
+        "trigger": "gl-star",
+        "usage": "gl-star",
+        "description": "star glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-star.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - star-empty",
+        "trigger": "gl-star-empty",
+        "usage": "gl-star-empty",
+        "description": "star-empty glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-star-empty.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - user",
+        "trigger": "gl-user",
+        "usage": "gl-user",
+        "description": "user glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-user.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - film",
+        "trigger": "gl-film",
+        "usage": "gl-film",
+        "description": "film glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-film.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - th-large",
+        "trigger": "gl-th-large",
+        "usage": "gl-th-large",
+        "description": "th-large glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-th-large.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - th",
+        "trigger": "gl-th",
+        "usage": "gl-th",
+        "description": "th glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-th.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - th-list",
+        "trigger": "gl-th-list",
+        "usage": "gl-th-list",
+        "description": "th-list glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-th-list.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - ok",
+        "trigger": "gl-ok",
+        "usage": "gl-ok",
+        "description": "ok glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-ok.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - remove",
+        "trigger": "gl-remove",
+        "usage": "gl-remove",
+        "description": "remove glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-remove.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - zoom-in",
+        "trigger": "gl-zoom-in",
+        "usage": "gl-zoom-in",
+        "description": "zoom-in glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-zoom-in.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - zoom-out",
+        "trigger": "gl-zoom-out",
+        "usage": "gl-zoom-out",
+        "description": "zoom-out glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-zoom-out.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - off",
+        "trigger": "gl-off",
+        "usage": "gl-off",
+        "description": "off glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-off.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - signal",
+        "trigger": "gl-signal",
+        "usage": "gl-signal",
+        "description": "signal glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-signal.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - cog",
+        "trigger": "gl-cog",
+        "usage": "gl-cog",
+        "description": "cog glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-cog.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - trash",
+        "trigger": "gl-trash",
+        "usage": "gl-trash",
+        "description": "trash glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-trash.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - home",
+        "trigger": "gl-home",
+        "usage": "gl-home",
+        "description": "home glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-home.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - file",
+        "trigger": "gl-file",
+        "usage": "gl-file",
+        "description": "file glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-file.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - time",
+        "trigger": "gl-time",
+        "usage": "gl-time",
+        "description": "time glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-time.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - road",
+        "trigger": "gl-road",
+        "usage": "gl-road",
+        "description": "road glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-road.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - download-alt",
+        "trigger": "gl-download-alt",
+        "usage": "gl-download-alt",
+        "description": "download-alt glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-download-alt.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - download",
+        "trigger": "gl-download",
+        "usage": "gl-download",
+        "description": "download glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-download.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - upload",
+        "trigger": "gl-upload",
+        "usage": "gl-upload",
+        "description": "upload glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-upload.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - inbox",
+        "trigger": "gl-inbox",
+        "usage": "gl-inbox",
+        "description": "inbox glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-inbox.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - play-circle",
+        "trigger": "gl-play-circle",
+        "usage": "gl-play-circle",
+        "description": "play-circle glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-play-circle.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - repeat",
+        "trigger": "gl-repeat",
+        "usage": "gl-repeat",
+        "description": "repeat glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-repeat.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - refresh",
+        "trigger": "gl-refresh",
+        "usage": "gl-refresh",
+        "description": "refresh glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-refresh.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - list-alt",
+        "trigger": "gl-list-alt",
+        "usage": "gl-list-alt",
+        "description": "list-alt glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-list-alt.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - lock",
+        "trigger": "gl-lock",
+        "usage": "gl-lock",
+        "description": "lock glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-lock.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - flag",
+        "trigger": "gl-flag",
+        "usage": "gl-flag",
+        "description": "flag glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-flag.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - headphones",
+        "trigger": "gl-headphones",
+        "usage": "gl-headphones",
+        "description": "headphones glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-headphones.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - volume-off",
+        "trigger": "gl-volume-off",
+        "usage": "gl-volume-off",
+        "description": "volume-off glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-volume-off.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - volume-down",
+        "trigger": "gl-volume-down",
+        "usage": "gl-volume-down",
+        "description": "volume-down glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-volume-down.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - volume-up",
+        "trigger": "gl-volume-up",
+        "usage": "gl-volume-up",
+        "description": "volume-up glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-volume-up.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - qrcode",
+        "trigger": "gl-qrcode",
+        "usage": "gl-qrcode",
+        "description": "qrcode glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-qrcode.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - barcode",
+        "trigger": "gl-barcode",
+        "usage": "gl-barcode",
+        "description": "barcode glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-barcode.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - tag",
+        "trigger": "gl-tag",
+        "usage": "gl-tag",
+        "description": "tag glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-tag.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - tags",
+        "trigger": "gl-tags",
+        "usage": "gl-tags",
+        "description": "tags glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-tags.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - book",
+        "trigger": "gl-book",
+        "usage": "gl-book",
+        "description": "book glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-book.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - bookmark",
+        "trigger": "gl-bookmark",
+        "usage": "gl-bookmark",
+        "description": "bookmark glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-bookmark.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - print",
+        "trigger": "gl-print",
+        "usage": "gl-print",
+        "description": "print glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-print.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - camera",
+        "trigger": "gl-camera",
+        "usage": "gl-camera",
+        "description": "camera glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-camera.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - font",
+        "trigger": "gl-font",
+        "usage": "gl-font",
+        "description": "font glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-font.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - bold",
+        "trigger": "gl-bold",
+        "usage": "gl-bold",
+        "description": "bold glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-bold.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - italic",
+        "trigger": "gl-italic",
+        "usage": "gl-italic",
+        "description": "italic glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-italic.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - text-height",
+        "trigger": "gl-text-height",
+        "usage": "gl-text-height",
+        "description": "text-height glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-text-height.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - text-width",
+        "trigger": "gl-text-width",
+        "usage": "gl-text-width",
+        "description": "text-width glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-text-width.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - align-left",
+        "trigger": "gl-align-left",
+        "usage": "gl-align-left",
+        "description": "align-left glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-align-left.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - align-center",
+        "trigger": "gl-align-center",
+        "usage": "gl-align-center",
+        "description": "align-center glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-align-center.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - align-right",
+        "trigger": "gl-align-right",
+        "usage": "gl-align-right",
+        "description": "align-right glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-align-right.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - align-justify",
+        "trigger": "gl-align-justify",
+        "usage": "gl-align-justify",
+        "description": "align-justify glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-align-justify.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - list",
+        "trigger": "gl-list",
+        "usage": "gl-list",
+        "description": "list glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-list.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - indent-left",
+        "trigger": "gl-indent-left",
+        "usage": "gl-indent-left",
+        "description": "indent-left glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-indent-left.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - indent-right",
+        "trigger": "gl-indent-right",
+        "usage": "gl-indent-right",
+        "description": "indent-right glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-indent-right.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - facetime-video",
+        "trigger": "gl-facetime-video",
+        "usage": "gl-facetime-video",
+        "description": "facetime-video glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-facetime-video.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - picture",
+        "trigger": "gl-picture",
+        "usage": "gl-picture",
+        "description": "picture glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-picture.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - map-marker",
+        "trigger": "gl-map-marker",
+        "usage": "gl-map-marker",
+        "description": "map-marker glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-map-marker.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - adjust",
+        "trigger": "gl-adjust",
+        "usage": "gl-adjust",
+        "description": "adjust glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-adjust.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - tint",
+        "trigger": "gl-tint",
+        "usage": "gl-tint",
+        "description": "tint glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-tint.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - edit",
+        "trigger": "gl-edit",
+        "usage": "gl-edit",
+        "description": "edit glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-edit.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - share",
+        "trigger": "gl-share",
+        "usage": "gl-share",
+        "description": "share glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-share.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - check",
+        "trigger": "gl-check",
+        "usage": "gl-check",
+        "description": "check glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-check.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - move",
+        "trigger": "gl-move",
+        "usage": "gl-move",
+        "description": "move glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-move.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - step-backward",
+        "trigger": "gl-step-backward",
+        "usage": "gl-step-backward",
+        "description": "step-backward glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-step-backward.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - fast-backward",
+        "trigger": "gl-fast-backward",
+        "usage": "gl-fast-backward",
+        "description": "fast-backward glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-fast-backward.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - backward",
+        "trigger": "gl-backward",
+        "usage": "gl-backward",
+        "description": "backward glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-backward.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - play",
+        "trigger": "gl-play",
+        "usage": "gl-play",
+        "description": "play glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-play.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - pause",
+        "trigger": "gl-pause",
+        "usage": "gl-pause",
+        "description": "pause glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-pause.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - stop",
+        "trigger": "gl-stop",
+        "usage": "gl-stop",
+        "description": "stop glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-stop.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - forward",
+        "trigger": "gl-forward",
+        "usage": "gl-forward",
+        "description": "forward glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-forward.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - fast-forward",
+        "trigger": "gl-fast-forward",
+        "usage": "gl-fast-forward",
+        "description": "fast-forward glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-fast-forward.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - step-forward",
+        "trigger": "gl-step-forward",
+        "usage": "gl-step-forward",
+        "description": "step-forward glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-step-forward.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - eject",
+        "trigger": "gl-eject",
+        "usage": "gl-eject",
+        "description": "eject glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-eject.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - chevron-left",
+        "trigger": "gl-chevron-left",
+        "usage": "gl-chevron-left",
+        "description": "chevron-left glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-chevron-left.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - chevron-right",
+        "trigger": "gl-chevron-right",
+        "usage": "gl-chevron-right",
+        "description": "chevron-right glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-chevron-right.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - plus-sign",
+        "trigger": "gl-plus-sign",
+        "usage": "gl-plus-sign",
+        "description": "plus-sign glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-plus-sign.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - minus-sign",
+        "trigger": "gl-minus-sign",
+        "usage": "gl-minus-sign",
+        "description": "minus-sign glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-minus-sign.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - remove-sign",
+        "trigger": "gl-remove-sign",
+        "usage": "gl-remove-sign",
+        "description": "remove-sign glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-remove-sign.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - ok-sign",
+        "trigger": "gl-ok-sign",
+        "usage": "gl-ok-sign",
+        "description": "ok-sign glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-ok-sign.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - question-sign",
+        "trigger": "gl-question-sign",
+        "usage": "gl-question-sign",
+        "description": "question-sign glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-question-sign.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - info-sign",
+        "trigger": "gl-info-sign",
+        "usage": "gl-info-sign",
+        "description": "info-sign glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-info-sign.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - screenshot",
+        "trigger": "gl-screenshot",
+        "usage": "gl-screenshot",
+        "description": "screenshot glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-screenshot.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - remove-circle",
+        "trigger": "gl-remove-circle",
+        "usage": "gl-remove-circle",
+        "description": "remove-circle glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-remove-circle.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - ok-circle",
+        "trigger": "gl-ok-circle",
+        "usage": "gl-ok-circle",
+        "description": "ok-circle glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-ok-circle.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - ban-circle",
+        "trigger": "gl-ban-circle",
+        "usage": "gl-ban-circle",
+        "description": "ban-circle glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-ban-circle.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - arrow-left",
+        "trigger": "gl-arrow-left",
+        "usage": "gl-arrow-left",
+        "description": "arrow-left glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-arrow-left.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - arrow-right",
+        "trigger": "gl-arrow-right",
+        "usage": "gl-arrow-right",
+        "description": "arrow-right glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-arrow-right.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - arrow-up",
+        "trigger": "gl-arrow-up",
+        "usage": "gl-arrow-up",
+        "description": "arrow-up glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-arrow-up.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - arrow-down",
+        "trigger": "gl-arrow-down",
+        "usage": "gl-arrow-down",
+        "description": "arrow-down glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-arrow-down.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - share-alt",
+        "trigger": "gl-share-alt",
+        "usage": "gl-share-alt",
+        "description": "share-alt glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-share-alt.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - resize-full",
+        "trigger": "gl-resize-full",
+        "usage": "gl-resize-full",
+        "description": "resize-full glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-resize-full.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - resize-small",
+        "trigger": "gl-resize-small",
+        "usage": "gl-resize-small",
+        "description": "resize-small glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-resize-small.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - exclamation-sign",
+        "trigger": "gl-exclamation-sign",
+        "usage": "gl-exclamation-sign",
+        "description": "exclamation-sign glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-exclamation-sign.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - gift",
+        "trigger": "gl-gift",
+        "usage": "gl-gift",
+        "description": "gift glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-gift.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - leaf",
+        "trigger": "gl-leaf",
+        "usage": "gl-leaf",
+        "description": "leaf glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-leaf.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - fire",
+        "trigger": "gl-fire",
+        "usage": "gl-fire",
+        "description": "fire glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-fire.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - eye-open",
+        "trigger": "gl-eye-open",
+        "usage": "gl-eye-open",
+        "description": "eye-open glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-eye-open.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - eye-close",
+        "trigger": "gl-eye-close",
+        "usage": "gl-eye-close",
+        "description": "eye-close glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-eye-close.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - warning-sign",
+        "trigger": "gl-warning-sign",
+        "usage": "gl-warning-sign",
+        "description": "warning-sign glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-warning-sign.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - plane",
+        "trigger": "gl-plane",
+        "usage": "gl-plane",
+        "description": "plane glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-plane.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - calendar",
+        "trigger": "gl-calendar",
+        "usage": "gl-calendar",
+        "description": "calendar glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-calendar.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - random",
+        "trigger": "gl-random",
+        "usage": "gl-random",
+        "description": "random glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-random.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - comment",
+        "trigger": "gl-comment",
+        "usage": "gl-comment",
+        "description": "comment glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-comment.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - magnet",
+        "trigger": "gl-magnet",
+        "usage": "gl-magnet",
+        "description": "magnet glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-magnet.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - chevron-up",
+        "trigger": "gl-chevron-up",
+        "usage": "gl-chevron-up",
+        "description": "chevron-up glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-chevron-up.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - chevron-down",
+        "trigger": "gl-chevron-down",
+        "usage": "gl-chevron-down",
+        "description": "chevron-down glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-chevron-down.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - retweet",
+        "trigger": "gl-retweet",
+        "usage": "gl-retweet",
+        "description": "retweet glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-retweet.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - shopping-cart",
+        "trigger": "gl-shopping-cart",
+        "usage": "gl-shopping-cart",
+        "description": "shopping-cart glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-shopping-cart.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - folder-close",
+        "trigger": "gl-folder-close",
+        "usage": "gl-folder-close",
+        "description": "folder-close glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-folder-close.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - folder-open",
+        "trigger": "gl-folder-open",
+        "usage": "gl-folder-open",
+        "description": "folder-open glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-folder-open.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - resize-vertical",
+        "trigger": "gl-resize-vertical",
+        "usage": "gl-resize-vertical",
+        "description": "resize-vertical glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-resize-vertical.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - resize-horizontal",
+        "trigger": "gl-resize-horizontal",
+        "usage": "gl-resize-horizontal",
+        "description": "resize-horizontal glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-resize-horizontal.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - hdd",
+        "trigger": "gl-hdd",
+        "usage": "gl-hdd",
+        "description": "hdd glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-hdd.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - bullhorn",
+        "trigger": "gl-bullhorn",
+        "usage": "gl-bullhorn",
+        "description": "bullhorn glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-bullhorn.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - bell",
+        "trigger": "gl-bell",
+        "usage": "gl-bell",
+        "description": "bell glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-bell.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - certificate",
+        "trigger": "gl-certificate",
+        "usage": "gl-certificate",
+        "description": "certificate glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-certificate.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - thumbs-up",
+        "trigger": "gl-thumbs-up",
+        "usage": "gl-thumbs-up",
+        "description": "thumbs-up glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-thumbs-up.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - thumbs-down",
+        "trigger": "gl-thumbs-down",
+        "usage": "gl-thumbs-down",
+        "description": "thumbs-down glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-thumbs-down.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - hand-right",
+        "trigger": "gl-hand-right",
+        "usage": "gl-hand-right",
+        "description": "hand-right glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-hand-right.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - hand-left",
+        "trigger": "gl-hand-left",
+        "usage": "gl-hand-left",
+        "description": "hand-left glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-hand-left.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - hand-up",
+        "trigger": "gl-hand-up",
+        "usage": "gl-hand-up",
+        "description": "hand-up glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-hand-up.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - hand-down",
+        "trigger": "gl-hand-down",
+        "usage": "gl-hand-down",
+        "description": "hand-down glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-hand-down.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - circle-arrow-right",
+        "trigger": "gl-circle-arrow-right",
+        "usage": "gl-circle-arrow-right",
+        "description": "circle-arrow-right glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-circle-arrow-right.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - circle-arrow-left",
+        "trigger": "gl-circle-arrow-left",
+        "usage": "gl-circle-arrow-left",
+        "description": "circle-arrow-left glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-circle-arrow-left.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - circle-arrow-up",
+        "trigger": "gl-circle-arrow-up",
+        "usage": "gl-circle-arrow-up",
+        "description": "circle-arrow-up glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-circle-arrow-up.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - circle-arrow-down",
+        "trigger": "gl-circle-arrow-down",
+        "usage": "gl-circle-arrow-down",
+        "description": "circle-arrow-down glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-circle-arrow-down.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - globe",
+        "trigger": "gl-globe",
+        "usage": "gl-globe",
+        "description": "globe glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-globe.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - wrench",
+        "trigger": "gl-wrench",
+        "usage": "gl-wrench",
+        "description": "wrench glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-wrench.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - tasks",
+        "trigger": "gl-tasks",
+        "usage": "gl-tasks",
+        "description": "tasks glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-tasks.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - filter",
+        "trigger": "gl-filter",
+        "usage": "gl-filter",
+        "description": "filter glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-filter.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - briefcase",
+        "trigger": "gl-briefcase",
+        "usage": "gl-briefcase",
+        "description": "briefcase glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-briefcase.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - fullscreen",
+        "trigger": "gl-fullscreen",
+        "usage": "gl-fullscreen",
+        "description": "fullscreen glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-fullscreen.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - dashboard",
+        "trigger": "gl-dashboard",
+        "usage": "gl-dashboard",
+        "description": "dashboard glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-dashboard.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - paperclip",
+        "trigger": "gl-paperclip",
+        "usage": "gl-paperclip",
+        "description": "paperclip glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-paperclip.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - heart-empty",
+        "trigger": "gl-heart-empty",
+        "usage": "gl-heart-empty",
+        "description": "heart-empty glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-heart-empty.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - link",
+        "trigger": "gl-link",
+        "usage": "gl-link",
+        "description": "link glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-link.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - phone",
+        "trigger": "gl-phone",
+        "usage": "gl-phone",
+        "description": "phone glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-phone.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - pushpin",
+        "trigger": "gl-pushpin",
+        "usage": "gl-pushpin",
+        "description": "pushpin glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-pushpin.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - usd",
+        "trigger": "gl-usd",
+        "usage": "gl-usd",
+        "description": "usd glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-usd.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - gbp",
+        "trigger": "gl-gbp",
+        "usage": "gl-gbp",
+        "description": "gbp glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-gbp.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - sort",
+        "trigger": "gl-sort",
+        "usage": "gl-sort",
+        "description": "sort glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-sort.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - sort-by-alphabet",
+        "trigger": "gl-sort-by-alphabet",
+        "usage": "gl-sort-by-alphabet",
+        "description": "sort-by-alphabet glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-sort-by-alphabet.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - sort-by-alphabet-",
+        "trigger": "gl-sort-by-alphabet-alt",
+        "usage": "gl-sort-by-alphabet-alt",
+        "description": "sort-by-alphabet-alt glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-sort-by-alphabet-alt.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - sort-by-order",
+        "trigger": "gl-sort-by-order",
+        "usage": "gl-sort-by-order",
+        "description": "sort-by-order glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-sort-by-order.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - sort-by-order-alt",
+        "trigger": "gl-sort-by-order-alt",
+        "usage": "gl-sort-by-order-alt",
+        "description": "sort-by-order-alt glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-sort-by-order-alt.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - sort-by-attributes",
+        "trigger": "gl-sort-by-attributes",
+        "usage": "gl-sort-by-attributes",
+        "description": "sort-by-attributes glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-sort-by-attributes.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - sort-by-attributes",
+        "trigger": "gl-sort-by-attributes-alt",
+        "usage": "gl-sort-by-attributes-alt",
+        "description": "sort-by-attributes-alt glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-sort-by-attributes-alt.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - unchecked",
+        "trigger": "gl-unchecked",
+        "usage": "gl-unchecked",
+        "description": "unchecked glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-unchecked.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - expand",
+        "trigger": "gl-expand",
+        "usage": "gl-expand",
+        "description": "expand glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-expand.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - collapse-down",
+        "trigger": "gl-collapse-down",
+        "usage": "gl-collapse-down",
+        "description": "collapse-down glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-collapse-down.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - collapse-up",
+        "trigger": "gl-collapse-up",
+        "usage": "gl-collapse-up",
+        "description": "collapse-up glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-collapse-up.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - log-in",
+        "trigger": "gl-log-in",
+        "usage": "gl-log-in",
+        "description": "log-in glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-log-in.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - flash",
+        "trigger": "gl-flash",
+        "usage": "gl-flash",
+        "description": "flash glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-flash.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - log-out",
+        "trigger": "gl-log-out",
+        "usage": "gl-log-out",
+        "description": "log-out glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-log-out.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - new-window",
+        "trigger": "gl-new-window",
+        "usage": "gl-new-window",
+        "description": "new-window glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-new-window.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - record",
+        "trigger": "gl-record",
+        "usage": "gl-record",
+        "description": "record glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-record.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - save",
+        "trigger": "gl-save",
+        "usage": "gl-save",
+        "description": "save glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-save.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - open",
+        "trigger": "gl-open",
+        "usage": "gl-open",
+        "description": "open glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-open.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - saved",
+        "trigger": "gl-saved",
+        "usage": "gl-saved",
+        "description": "saved glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-saved.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - import",
+        "trigger": "gl-import",
+        "usage": "gl-import",
+        "description": "import glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-import.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - export",
+        "trigger": "gl-export",
+        "usage": "gl-export",
+        "description": "export glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-export.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - send",
+        "trigger": "gl-send",
+        "usage": "gl-send",
+        "description": "send glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-send.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - floppy-disk",
+        "trigger": "gl-floppy-disk",
+        "usage": "gl-floppy-disk",
+        "description": "floppy-disk glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-floppy-disk.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - floppy-saved",
+        "trigger": "gl-floppy-saved",
+        "usage": "gl-floppy-saved",
+        "description": "floppy-saved glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-floppy-saved.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - floppy-remove",
+        "trigger": "gl-floppy-remove",
+        "usage": "gl-floppy-remove",
+        "description": "floppy-remove glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-floppy-remove.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - floppy-save",
+        "trigger": "gl-floppy-save",
+        "usage": "gl-floppy-save",
+        "description": "floppy-save glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-floppy-save.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - floppy-open",
+        "trigger": "gl-floppy-open",
+        "usage": "gl-floppy-open",
+        "description": "floppy-open glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-floppy-open.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - credit-card",
+        "trigger": "gl-credit-card",
+        "usage": "gl-credit-card",
+        "description": "credit-card glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-credit-card.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - transfer",
+        "trigger": "gl-transfer",
+        "usage": "gl-transfer",
+        "description": "transfer glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-transfer.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - cutlery",
+        "trigger": "gl-cutlery",
+        "usage": "gl-cutlery",
+        "description": "cutlery glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-cutlery.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - header",
+        "trigger": "gl-header",
+        "usage": "gl-header",
+        "description": "header glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-header.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - compressed",
+        "trigger": "gl-compressed",
+        "usage": "gl-compressed",
+        "description": "compressed glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-compressed.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - earphone",
+        "trigger": "gl-earphone",
+        "usage": "gl-earphone",
+        "description": "earphone glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-earphone.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - phone-alt",
+        "trigger": "gl-phone-alt",
+        "usage": "gl-phone-alt",
+        "description": "phone-alt glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-phone-alt.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - tower",
+        "trigger": "gl-tower",
+        "usage": "gl-tower",
+        "description": "tower glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-tower.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - stats",
+        "trigger": "gl-stats",
+        "usage": "gl-stats",
+        "description": "stats glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-stats.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - sd-video",
+        "trigger": "gl-sd-video",
+        "usage": "gl-sd-video",
+        "description": "sd-video glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-sd-video.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - hd-video",
+        "trigger": "gl-hd-video",
+        "usage": "gl-hd-video",
+        "description": "hd-video glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-hd-video.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - subtitles",
+        "trigger": "gl-subtitles",
+        "usage": "gl-subtitles",
+        "description": "subtitles glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-subtitles.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - sound-stereo",
+        "trigger": "gl-sound-stereo",
+        "usage": "gl-sound-stereo",
+        "description": "sound-stereo glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-sound-stereo.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - sound-dolby",
+        "trigger": "gl-sound-dolby",
+        "usage": "gl-sound-dolby",
+        "description": "sound-dolby glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-sound-dolby.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - sound-5-1",
+        "trigger": "gl-sound-5-1",
+        "usage": "gl-sound-5-1",
+        "description": "sound-5-1 glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-sound-5-1.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - sound-6-1",
+        "trigger": "gl-sound-6-1",
+        "usage": "gl-sound-6-1",
+        "description": "sound-6-1 glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-sound-6-1.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - sound-7-1",
+        "trigger": "gl-sound-7-1",
+        "usage": "gl-sound-7-1",
+        "description": "sound-7-1 glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-sound-7-1.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - copyright-mark",
+        "trigger": "gl-copyright-mark",
+        "usage": "gl-copyright-mark",
+        "description": "copyright-mark glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-copyright-mark.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - registration-mark",
+        "trigger": "gl-registration-mark",
+        "usage": "gl-registration-mark",
+        "description": "registration-mark glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-registration-mark.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - cloud-download",
+        "trigger": "gl-cloud-download",
+        "usage": "gl-cloud-download",
+        "description": "cloud-download glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-cloud-download.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - cloud-upload",
+        "trigger": "gl-cloud-upload",
+        "usage": "gl-cloud-upload",
+        "description": "cloud-upload glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-cloud-upload.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - tree-conifer",
+        "trigger": "gl-tree-conifer",
+        "usage": "gl-tree-conifer",
+        "description": "tree-conifer glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-tree-conifer.snippet"
+    },
+    {
+        "name": "Bootstrap: Glyphicon - tree-deciduous",
+        "trigger": "gl-tree-deciduous",
+        "usage": "gl-tree-deciduous",
+        "description": "tree-deciduous glyphicon in <span> element",
+        "template": "bootstrap/components/glyphicons/glyph-tree-deciduous.snippet"
+    }
+]
